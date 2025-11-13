@@ -1,12 +1,3 @@
-# Week 4 Assignment:<br>Building End-to-End Batch and Streaming Pipelines<br>Based on Stakeholder Requirements
-
-In this lab, you will experiment one step further with the framework of "Thinking like a Data Engineer". 
-You will implement the batch and streaming architectures that you've explored in the quizzes this week 
-to meet the stakeholder requirements. You will first start with implementing the batch pipeline that serves 
-the training data for the recommender system. You will then store the output embeddings of the model in 
-a vector database, and finally implement the streaming pipeline that uses the trained model and the vector 
-database to provide real-time product recommendations.
-
 # Table of Contents
 - [1 - Implementing the Batch Pipeline](#1)
 - [2 - Creating & Setting up the Vector Database](#2)
